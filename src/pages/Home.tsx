@@ -74,7 +74,9 @@ export default function Home() {
             </p>
             <h1 className="text-6xl lg:text-[7.5rem] font-black leading-[0.88] tracking-tight text-black mix-blend-multiply">
               <span className="block">FULL-STACK</span>
-              <span className="block text-transparent tracking-widest" style={{ WebkitTextStroke: '2px black', paddingLeft: '0.1em' }}>ENGINEER</span>
+              <span className="block text-transparent" style={{ WebkitTextStroke: '2px black' }}>
+                ENGINEE<span className="inline-block translate-x-2">R</span>
+              </span>
             </h1>
           </Reveal>
 
