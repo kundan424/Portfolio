@@ -72,10 +72,10 @@ export default function Home() {
             <p className="text-xs font-bold tracking-[0.4em] text-zinc-500 uppercase mb-6">
               Final-Year CS Undergraduate · Full-Stack Engineer
             </p>
-            <h1 className="text-6xl lg:text-[7.5rem] font-black leading-[0.88] tracking-tighter text-black mix-blend-multiply">
+            <h1 className="text-6xl lg:text-[7.5rem] font-black leading-[0.88] tracking-tight text-black mix-blend-multiply">
               <span className="block">FULL-STACK</span>
               <span className="block text-transparent" style={{ WebkitTextStroke: '2px black' }}>ENGINEER</span>
-              
+              <span className="block">JAVA &amp; TS</span>
             </h1>
           </Reveal>
 
